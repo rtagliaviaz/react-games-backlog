@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-games-backlog/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-games-backlog/static/js/main.6eeec2db.chunk.js",
+    "main.js.map": "/react-games-backlog/static/js/main.6eeec2db.chunk.js.map",
+    "runtime-main.js": "/react-games-backlog/static/js/runtime-main.c423dcec.js",
+    "runtime-main.js.map": "/react-games-backlog/static/js/runtime-main.c423dcec.js.map",
+    "static/css/2.9f0b74ee.chunk.css": "/react-games-backlog/static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.ccc12069.chunk.js": "/react-games-backlog/static/js/2.ccc12069.chunk.js",
+    "static/js/2.ccc12069.chunk.js.map": "/react-games-backlog/static/js/2.ccc12069.chunk.js.map",
+    "index.html": "/react-games-backlog/index.html",
+    "static/css/2.9f0b74ee.chunk.css.map": "/react-games-backlog/static/css/2.9f0b74ee.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-games-backlog/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ccc12069.chunk.js.LICENSE.txt": "/react-games-backlog/static/js/2.ccc12069.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c423dcec.js",
+    "static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.ccc12069.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6eeec2db.chunk.js"
+  ]
+}
